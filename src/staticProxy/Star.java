@@ -6,6 +6,7 @@ public interface Star {
 	 */
 	void confer();
 	/**
+	 * 
 	 * Ç©ºÏÍ¬
 	 */
 	void signContract();
